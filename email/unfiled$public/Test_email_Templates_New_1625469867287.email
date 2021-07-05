@@ -2,4 +2,5 @@
 	<title></title>
 </head>
 <body style="height: auto; min-height: auto;">{{{Recipient.Address}}}<br />
-&nbsp;</body></html>
+{{{Recipient.AssistantPhone}}}<br />
+{{{Recipient.AnnualRevenue}}}</body></html>
