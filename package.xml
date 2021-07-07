@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>unfiled$public/Test_email_Templates_1625469823689</members>
-        <name>EmailTemplate</name>
+        <members>DGV_CUSTOM__c</members>
+        <name>CustomObject</name>
     </types>
     <types>
-        <members>unfiled$public/Test_email_Templates_New_1625469867287</members>
-        <name>EmailTemplate</name>
+        <members>DGV_CUSTOM__c-DGV_CUSTOM Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>DGV_CUSTOM__c</members>
+        <name>SharingRules</name>
     </types>
     <version>52.0</version>
 </Package>
