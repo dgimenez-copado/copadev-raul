@@ -12,5 +12,5 @@
         <members>DGV_CUSTOM__c</members>
         <name>SharingRules</name>
     </types>
-    <version>52.0</version>
+    <version>51.0</version>
 </Package>
