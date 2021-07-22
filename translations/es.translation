@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label>spanish app 2</label>
+        <name>translated_app_2</name>
+    </customApplications>
+</Translations>
