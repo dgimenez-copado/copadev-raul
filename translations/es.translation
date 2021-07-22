@@ -4,6 +4,10 @@
         <label>spanish app 1</label>
         <name>Translated_app_1</name>
     </customApplications>
+    <customApplications>
+        <label>spanish app 2</label>
+        <name>translated_app_2</name>
+    </customApplications>
     <customLabels>
         <label>changed</label>
         <name>label_1</name>
