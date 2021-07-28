@@ -16,6 +16,14 @@ public with sharing class ContentDocumentUnitTest {
 
         String firstname = 'Amit';
         String lastName  = 'Singh';
+        
+        String unusedVar1 = '';
+        String unusedVar2 = '';
+        String unusedVar3 = '';
+        
+        while(true) {
+            
+        }
 
         Id profileId = [Select Id, Name From Profile Where Name = 'System Administrator' Limit 1].Id;
         Id roleId = null;
